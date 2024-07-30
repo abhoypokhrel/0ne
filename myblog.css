@@ -1,0 +1,65 @@
+.navbar{
+    padding-top: 32px;
+  background-color: lightgrey;
+    max-width: 1400px;
+    margin-bottom: 32px;
+}
+
+
+
+.abhi{
+    margin-right: 12px;
+    margin-left: 12px;
+    margin-bottom: 32px;
+    
+}
+
+.abhi1{
+    margin-right: 12px;
+    margin-left: 12px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.footer{
+    background-color:rgb(97, 97, 97);
+color: rgb(255, 255, 255);
+display: block;
+font-family: Raleway, sans-serif;
+font-size: 15px;
+height: 179px;
+line-height: 22.5px;
+margin-top: 16px;
+padding-bottom: 32px;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 32px;
+text-size-adjust: 100%;
+unicode-bidi: isolate;
+margin-top: 32px;
+
+}
+.one{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    background-color: rgb(204, 204, 204);
+}
+.Two{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    text-decoration-color:rgb(255, 255, 255);
+    background-color: black
+}
+
+
